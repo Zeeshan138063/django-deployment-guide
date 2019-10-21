@@ -14,7 +14,7 @@ django-rest-auth==0.9.1
 django-simple-email-confirmation==0.22
 djangorestframework==3.2.5
 djangorestframework-jwt==1.8.0
-ecdsa==0.13
+ecdsa==0.13.3
 enum-compat==0.0.2
 enum34==1.1.6
 eventlet==0.21.0
