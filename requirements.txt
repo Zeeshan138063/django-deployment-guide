@@ -38,7 +38,7 @@ python-jose==3.0.1
 python-memcached==1.59
 pytz==2018.4
 requests==2.18.1
-rsa==4.0
+rsa==4.7
 sendgrid==3.6.5
 sendgrid-django==4.0.4
 six==1.11.0
